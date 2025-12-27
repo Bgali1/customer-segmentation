@@ -158,8 +158,7 @@ Visualization Impact: Dashboards enable stakeholder decision-making
  Time-series clustering for behavior evolution
  Deep learning embeddings for advanced segmentation
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 👤 Author
 Bhavani Gali
 
